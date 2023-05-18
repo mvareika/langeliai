@@ -1,0 +1,21 @@
+table{
+    height: 45px;
+    max-width: 60px;
+    background: rgb(255, 94, 0);
+    float: left;
+}
+td{
+    background: green;
+    width: 40px;
+    text-align: center;
+    font-size: 10px;
+}
+a{
+    background: orangered;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-decoration: none;
+    color: orangered;
+}
